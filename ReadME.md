@@ -46,4 +46,5 @@ Throughout this project, I've gained the following key insights and skills:
 
 ## Usage
 Simple demo.
+
 ![Project Demo](https://github.com/cicciodepa/tamagotchi-landtiger-lpc1768/blob/main/tamagotchi.gif)
