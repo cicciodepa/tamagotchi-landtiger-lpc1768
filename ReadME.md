@@ -45,4 +45,4 @@ Throughout this project, I've gained the following key insights and skills:
 - **Documentation:** Creating comprehensive documentation helped me communicate project details effectively and share my knowledge.
 
 ## Usage
-![Project Demo](https://github.com/cicciodepa/tamagotchi-landtiger-lpc1768/main/tamagotchi.gif)
+![Project Demo](https://github.com/cicciodepa/tamagotchi-landtiger-lpc1768/blob/main/tamagotchi.gif)
